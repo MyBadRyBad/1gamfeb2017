@@ -1,6 +1,10 @@
+#Builds
+/[Bb]build/
+/[Bb]uilds
+
 #Construct 2 User Interface
 *.uistate.xml
- 
+
 #Temporary files
  *.capx.backup*
  *.capx.autosave*
